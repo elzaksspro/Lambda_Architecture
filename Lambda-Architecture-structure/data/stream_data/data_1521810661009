@@ -1,0 +1,201 @@
+timestamp_hour	referrer	action	prevPage	visitor	page	product
+1521810660981	Direct	purchas		Visitor-555629	Page-4	Charmin,Ultra Soft
+1521810661461	Direct	add_to_cart		Visitor-727219	Page-4	Sharpie,Fine Permanent Marker
+1521810661941	Internal	page_view	Page-14	Visitor-564370	Page-13	Disney,Tangled (DVD)
+1521810662421	Twitter	page_view		Visitor-744096	Page-0	Clif Bar,Chocolate Almond Fudge Energy Bar
+1521810662421	Bing	page_view		Visitor-907696	Page-10	Axe,Axe Anarchy for Her
+1521810662421	Facebook	page_view		Visitor-12327	Page-11	Gatorade,Frost Riptide Rush
+1521810662421	Bing	page_view		Visitor-950081	Page-7	Dixie,Paper Plates
+1521810662421	Bing	page_view		Visitor-663640	Page-3	RadioShack,PIR Sensor
+1521810662421	Bing	page_view		Visitor-499851	Page-7	Green Giant,Cut Green Beans
+1521810662421	Google	page_view		Visitor-428705	Page-0	David's Tea,Chocolate Chili Chai Black Tea
+1521810662421	Direct	add_to_cart		Visitor-827132	Page-5	Tide,Febreze Fresh Laundry Detergent
+1521810662421	Bing	page_view		Visitor-554568	Page-10	Blizzard,Starcraft II: Wings of Liberty
+1521810662421	Facebook	page_view		Visitor-63248	Page-14	Natural Grooming by Herban Cowboy,Dusk Deodorant
+1521810662901	Internal	add_to_cart	Page-12	Visitor-2056	Page-12	Kraft,Cool Whip
+1521810662901	Direct	page_view		Visitor-411089	Page-11	Mrs. Meyer's Clean Day,"Liquid Hand Soap Refill, Lavender Scent"
+1521810662901	Internal	page_view	Page-8	Visitor-777780	Page-7	Google,Chromecast
+1521810662901	Other	page_view		Visitor-230465	Page-0	Biore,Deep Pore Charcoal Cleanser
+1521810662901	Other	page_view		Visitor-45906	Page-1	Tropicana,Orange Juice with Calcium & Vitamin D
+1521810662901	Direct	page_view		Visitor-922830	Page-5	Spectrum Naturals,Peanut Oil
+1521810662901	Facebook	page_view		Visitor-798324	Page-10	American Crew,Fiber
+1521810662901	Other	page_view		Visitor-894997	Page-8	Green Giant,Cut Green Beans
+1521810662901	Other	page_view		Visitor-599504	Page-7	Kind,Thai Sweet Chili Almond Protein Bar
+1521810662901	Twitter	purchas		Visitor-297284	Page-11	Chobani,Greek Yogurt - Plain
+1521810662901	Yahoo	page_view		Visitor-988834	Page-13	All,"Mighty Pacs, Free Clear"
+1521810662901	Twitter	page_view		Visitor-760533	Page-9	Farmland,Lower Sodium Bacon
+1521810662901	Other	page_view		Visitor-477345	Page-8	Maybelline,The Falsies - Washable Mascara
+1521810662901	Direct	page_view		Visitor-110763	Page-4	Annie's,Rice Pasta and Extra Cheesy Cheddar Sauce
+1521810663381	Twitter	page_view		Visitor-435756	Page-6	Biore,Warming Anti-Blackhead Cleanser
+1521810663381	Internal	purchas	Page-12	Visitor-414810	Page-2	Duracell,9V Procell Batteries
+1521810663381	Facebook	page_view		Visitor-265468	Page-9	Clean & Clear,Essentials Foaming Facial Cleanser Sensitive Skin
+1521810663381	Other	page_view		Visitor-942247	Page-11	Kind,Dark Chocolate Nuts & Sea Salt Protein Bar
+1521810663381	Yahoo	page_view		Visitor-38590	Page-7	RadioShack,PIR Sensor
+1521810663861	Internal	page_view	Page-8	Visitor-811462	Page-0	Simple Truth Organic,Baby Arugula
+1521810663861	Bing	add_to_cart		Visitor-307106	Page-6	Natural Grooming by Herban Cowboy,Dusk Deodorant
+1521810663861	Internal	page_view	Page-3	Visitor-858999	Page-2	Coca Cola,Soda
+1521810663861	Twitter	page_view		Visitor-528186	Page-11	California Pizza Kitchen,Sicilian Recipe Pizza
+1521810663861	Bing	page_view		Visitor-568805	Page-7	HDX,Table Top Air Circulator
+1521810663861	Internal	page_view	Page-2	Visitor-384293	Page-12	SteamFast,Travel Steam Iron
+1521810663861	Internal	page_view	Page-11	Visitor-374948	Page-12	Pond's,Dry Skin Cream
+1521810664341	Yahoo	page_view		Visitor-529383	Page-8	Lysol,Bathroom Cleaner with Hydrogen Peroxide
+1521810664341	Facebook	page_view		Visitor-271640	Page-4	Organix,Renewing Argan Oil of Morocco
+1521810664341	Yahoo	page_view		Visitor-440211	Page-10	Green Giant,Cut Green Beans
+1521810664341	Google	page_view		Visitor-599386	Page-13	Wholesome Kitchen,Farro and Garden Vegetable
+1521810664341	Google	page_view		Visitor-456819	Page-8	David's Tea,Birthday Cake
+1521810664341	Other	page_view		Visitor-461371	Page-9	Mr. Clean,Magic Eraser
+1521810664341	Other	page_view		Visitor-537727	Page-8	RadioShack,PIR Sensor
+1521810664821	Twitter	page_view		Visitor-165186	Page-8	Molton Brown,Re-Charge Black Pepper Body Wash
+1521810664821	Bing	page_view		Visitor-685704	Page-1	Saft Lingon,Lingonberry Drink Concentrate
+1521810664821	Google	page_view		Visitor-176708	Page-7	Kind,Thai Sweet Chili Almond Protein Bar
+1521810664821	Direct	page_view		Visitor-954846	Page-3	Dixie,Paper Plates
+1521810664821	Yahoo	page_view		Visitor-397519	Page-1	Barilla,Rotini
+1521810664821	Internal	page_view	Page-11	Visitor-903396	Page-12	Nestle,Leche Condensada
+1521810664821	Direct	page_view		Visitor-961064	Page-6	Maybelline,The Falsies - Washable Mascara
+1521810664821	Twitter	page_view		Visitor-859268	Page-1	Glad,Odor Shield Tall Kitchen Drawstring Bags
+1521810664821	Google	page_view		Visitor-183715	Page-12	Penn,Extra Duty Felt Tennis Ball
+1521810665301	Other	page_view		Visitor-908084	Page-14	Clif,Builder's 20g Protein Bar Chocolate Mint
+1521810665301	Direct	page_view		Visitor-207979	Page-10	David's Tea,Chocolate Rocket Mate Tea
+1521810665301	Yahoo	page_view		Visitor-900690	Page-7	Ralphs,Nice 'n Elegant Spoons
+1521810665301	Facebook	page_view		Visitor-390651	Page-2	Knorr,Salsa Lista Pizza
+1521810665301	Bing	page_view		Visitor-922636	Page-7	Cloud 9,Cutlery Combo
+1521810665781	Facebook	page_view		Visitor-408479	Page-5	Nature Made,D3 400 IU
+1521810665781	Bing	page_view		Visitor-129379	Page-10	Sanyo,Eneloop 4 AA Batteries and Charger
+1521810665781	Yahoo	page_view		Visitor-855943	Page-8	Community,Season 2 DVDs
+1521810665781	Yahoo	page_view		Visitor-971483	Page-13	Pond's,Cold Cream Cleanser
+1521810665781	Other	page_view		Visitor-668238	Page-9	Crisco,Pure Vegetable Oil
+1521810665781	Facebook	page_view		Visitor-455119	Page-14	Blizzard,Starcraft II: Wings of Liberty
+1521810665781	Twitter	page_view		Visitor-987697	Page-12	Comet,Comet With Bleach
+1521810665781	Other	page_view		Visitor-435830	Page-3	Jergens,Natural Glow
+1521810665781	Facebook	page_view		Visitor-385886	Page-2	Trader Joe's,Tomato Sauce
+1521810665781	Bing	page_view		Visitor-973528	Page-11	HDX,Table Top Air Circulator
+1521810665781	Bing	page_view		Visitor-495003	Page-9	Parallax Inc.,Extension Cables & 3-Pin Headers
+1521810665781	Bing	page_view		Visitor-420843	Page-5	L'Oreal,Out of Bed Texturizer
+1521810666261	Other	page_view		Visitor-900579	Page-9	Duette,Toilet Bowl Cleaner
+1521810666261	Bing	page_view		Visitor-594520	Page-3	Farmland,Lower Sodium Bacon
+1521810666261	Other	page_view		Visitor-963470	Page-12	Aveeno,Clear Complexion Foaming Cleanser
+1521810666261	Facebook	page_view		Visitor-896207	Page-14	l'Oreal,EverStrong Hydrate Shampoo
+1521810666261	Google	page_view		Visitor-895812	Page-5	Colgate,Toothbrush Value Pack
+1521810666261	Yahoo	add_to_cart		Visitor-985728	Page-7	Annie's,Shells & Real Aged Cheddar Macaroni & Cheese
+1521810666261	Twitter	page_view		Visitor-155370	Page-3	Palmolive,Original Dish Liquid
+1521810666261	Bing	page_view		Visitor-979405	Page-2	Palmolive,Original Dish Liquid
+1521810666261	Bing	page_view		Visitor-511235	Page-0	Hot Shot,Flying Insect Killer
+1521810666261	Direct	page_view		Visitor-12229	Page-7	Trident,"White Gum, Spearmint"
+1521810666261	Facebook	page_view		Visitor-612964	Page-7	Avery,White Reinforcement Labels
+1521810666261	Twitter	page_view		Visitor-175451	Page-13	e.l.f.,Smudge Pot- Back to Basics
+1521810666261	Other	page_view		Visitor-445363	Page-5	Scotch,Super 33+ Vinyl Electric Tape
+1521810666261	Internal	page_view	Page-5	Visitor-530066	Page-0	Duracell,76A Duralock Battery
+1521810666741	Direct	purchas		Visitor-263984	Page-7	e.l.f.,Jumbo Eyeshadow Stick-Turkish Coffee
+1521810666741	Google	page_view		Visitor-321816	Page-11	Cover Girl,Flamed Out Mascra
+1521810666741	Bing	page_view		Visitor-146855	Page-1	Ancient Harvest,Quinoa Rotelle
+1521810666741	Twitter	page_view		Visitor-188771	Page-3	De Cecco,Penne Rigate
+1521810666741	Yahoo	page_view		Visitor-267798	Page-10	Benadryl,Allergy
+1521810667221	Internal	page_view	Page-0	Visitor-560789	Page-2	McCormick,Pure Ground Black Pepper
+1521810667221	Other	add_to_cart		Visitor-384935	Page-10	Stanley,9 Way Screwdriver
+1521810667701	Twitter	page_view		Visitor-4807	Page-2	Scotch,Super 33+ Vinyl Electric Tape
+1521810667701	Google	page_view		Visitor-476982	Page-9	CVS Total Home,"Aluminum Foil, Heavy Duty"
+1521810667701	Direct	page_view		Visitor-298420	Page-8	Nestle,Leche Condensada
+1521810667701	Direct	page_view		Visitor-33550	Page-14	Andersen's,Creamy Soup Split Pea
+1521810667701	Internal	page_view	Page-7	Visitor-906282	Page-14	Trident,"White Gum, Spearmint"
+1521810667701	Other	page_view		Visitor-98239	Page-5	Gatorade,Frost Riptide Rush
+1521810667701	Twitter	page_view		Visitor-620890	Page-3	RadioShack,PIR Sensor
+1521810668181	Twitter	page_view		Visitor-270277	Page-1	Dust Destroyer,Compressed-Gas Duster
+1521810668181	Twitter	page_view		Visitor-781113	Page-1	Elmer's,Disappearing Purple School Glue Sticks
+1521810668181	Other	page_view		Visitor-202381	Page-14	Garnier Fructis Style,Pure Clean Finishing Paste
+1521810668181	Google	page_view		Visitor-645623	Page-13	l'Oreal,EverStrong Hydrate Conditioner
+1521810668181	Internal	page_view	Page-2	Visitor-984270	Page-12	Trader Joe's,Curry Powder
+1521810668181	Other	page_view		Visitor-427496	Page-6	Trader Joe's,Tomato Sauce
+1521810668181	Yahoo	page_view		Visitor-480506	Page-9	Avery,White Easy Peel Return Address Labels
+1521810668181	Yahoo	add_to_cart		Visitor-328671	Page-11	S&W Premium,Black Beans (tin)
+1521810668181	Twitter	page_view		Visitor-460782	Page-14	Kellogg's,Corn Flakes
+1521810668181	Twitter	add_to_cart		Visitor-960	Page-10	Neutrogena,On-the-Spot Acne Treatment
+1521810668181	Other	page_view		Visitor-87818	Page-0	McCormick,Pure Ground Black Pepper
+1521810668181	Internal	page_view	Page-8	Visitor-861935	Page-10	Pantene,Repair & Protect 2in1 Shampoo & Conditioner
+1521810668661	Internal	page_view	Page-11	Visitor-979187	Page-13	David's Tea,Chocolate Chili Chai Black Tea
+1521810668661	Yahoo	page_view		Visitor-821966	Page-9	Bolla,Pinot Grigio
+1521810668661	Twitter	page_view		Visitor-440903	Page-1	Arduino,Yun
+1521810668661	Bing	page_view		Visitor-345676	Page-11	Cen-Tech,7 Function Digital Multimeter
+1521810668661	Bing	page_view		Visitor-784214	Page-11	McCormick,Pure Ground Black Pepper
+1521810668661	Bing	page_view		Visitor-953103	Page-10	Pantene,Repair & Protect 2in1 Shampoo & Conditioner
+1521810668661	Facebook	page_view		Visitor-484135	Page-4	The Body Shop,Coconut Body Butter
+1521810668661	Google	page_view		Visitor-848105	Page-5	Clean & Clear,Essentials Foaming Facial Cleanser Sensitive Skin
+1521810668661	Bing	page_view		Visitor-531526	Page-0	Nature Made,D3 400 IU
+1521810668661	Other	page_view		Visitor-356853	Page-10	Tapatio,Salsa Picante
+1521810669141	Twitter	page_view		Visitor-915564	Page-3	Annie's,Shells & Real Aged Cheddar Macaroni & Cheese
+1521810669141	Twitter	page_view		Visitor-315558	Page-10	Mars,Peanut Butter M&M Chocolate Candies
+1521810669141	Google	page_view		Visitor-397578	Page-5	Kind,Dark Chocolate Nuts & Sea Salt Protein Bar
+1521810669141	Twitter	page_view		Visitor-466077	Page-3	Tapatio,Salsa Picante
+1521810669141	Facebook	page_view		Visitor-62007	Page-8	Barilla,Rotini
+1521810669141	Yahoo	add_to_cart		Visitor-639042	Page-10	Expo,Dry Erase Markers
+1521810669141	Direct	page_view		Visitor-596963	Page-12	Neutrogena,Fresh Cleansing + Makeup Remover
+1521810669621	Facebook	page_view		Visitor-478631	Page-3	Aveeno,Clear Complexion Foaming Cleanser
+1521810669621	Yahoo	page_view		Visitor-72614	Page-4	Kroger,Granulated Sugar
+1521810669621	Google	page_view		Visitor-629740	Page-8	Fernet-Branca,Liqueur
+1521810669621	Direct	page_view		Visitor-255214	Page-2	Reynolds,Slow Cooker Liners
+1521810669621	Direct	page_view		Visitor-599083	Page-5	aussie,Instant Freeze Gel
+1521810669621	Direct	page_view		Visitor-720377	Page-5	Scott,One Ply Bathroom Tissue
+1521810669621	Twitter	page_view		Visitor-456563	Page-9	Viano Vineyards,Cabernet Sauvignon
+1521810669621	Direct	purchas		Visitor-985174	Page-11	Ralphs,Plastic Wrap
+1521810669621	Facebook	page_view		Visitor-315519	Page-13	Community,Season 2 DVDs
+1521810669621	Other	page_view		Visitor-52597	Page-4	Colgate,Toothbrush Value Pack
+1521810669621	Twitter	page_view		Visitor-107281	Page-5	The Learning Company,Where in the U.S.A. is Carmen Sandiego
+1521810669621	Google	page_view		Visitor-453402	Page-12	Fernet-Branca,Liqueur
+1521810669621	Direct	page_view		Visitor-34744	Page-1	Neutrogena,Alcohol-Free Toner
+1521810669621	Twitter	page_view		Visitor-372761	Page-3	Neutrogena,Alcohol-Free Toner
+1521810669621	Facebook	page_view		Visitor-148011	Page-0	Siggi's,"Icelandic Style Skyr, Blueberry"
+1521810669621	Internal	page_view	Page-5	Visitor-948614	Page-7	Gillette,Sensor 3
+1521810669621	Direct	page_view		Visitor-153943	Page-9	Purell,Advanced Hand Sanitizer -travel size
+1521810670101	Twitter	page_view		Visitor-148239	Page-12	Trader Joe's,Curry Powder
+1521810670581	Google	page_view		Visitor-175023	Page-4	OYO,Whiskey
+1521810671061	Bing	page_view		Visitor-278715	Page-4	Gatorade,Frost Riptide Rush
+1521810671061	Direct	page_view		Visitor-380529	Page-9	Heinz,Tomato Ketchup
+1521810671061	Yahoo	page_view		Visitor-624904	Page-11	Kroger,Vanilla Extract
+1521810671061	Internal	page_view	Page-1	Visitor-885314	Page-7	L'oreal Paris,Voluminous Original 305 Black Mascara
+1521810671061	Facebook	page_view		Visitor-745466	Page-5	Molton Brown,Re-Charge Black Pepper Body Wash
+1521810671061	Other	page_view		Visitor-623427	Page-9	Neutrogena,Oil-Free Acne Stress Control Power-Cream Wash
+1521810671061	Other	page_view		Visitor-100558	Page-6	Mars,Peanut Butter M&M Chocolate Candies
+1521810671061	Direct	page_view		Visitor-861067	Page-1	Coca Cola,Soda
+1521810671061	Bing	page_view		Visitor-613489	Page-14	Clif,Builder's 20g Protein Bar Chocolate Mint
+1521810671061	Bing	page_view		Visitor-378922	Page-14	Coca Cola,Soda
+1521810671541	Facebook	page_view		Visitor-765280	Page-2	Sun Vista,Black Beans No Salt Added
+1521810671541	Bing	page_view		Visitor-996334	Page-7	McCormick,Italian Seasoning
+1521810671541	Facebook	page_view		Visitor-778213	Page-3	Clean & Clear,Essentials Foaming Facial Cleanser Sensitive Skin
+1521810671541	Twitter	page_view		Visitor-962636	Page-10	Walgreens,Advanced Hand Sanitizer with Aloe
+1521810671541	Other	page_view		Visitor-516347	Page-10	Banquet,Brown 'N Serve Original Sausage Links
+1521810671541	Other	page_view		Visitor-155861	Page-2	Barilla,Rotini
+1521810671541	Twitter	page_view		Visitor-767163	Page-3	Biotene,Dry Mouth  Oral Rinse
+1521810671541	Direct	page_view		Visitor-90935	Page-7	Safeway Kitchens,Clover Honey
+1521810671541	Bing	page_view		Visitor-193786	Page-8	Glad,Odor Shield Tall Kitchen Drawstring Bags
+1521810672021	Facebook	page_view		Visitor-500170	Page-0	Pantene,Repair & Protect 2in1 Shampoo & Conditioner
+1521810672021	Bing	page_view		Visitor-212706	Page-5	Crisco,Pure Vegetable Oil
+1521810672021	Yahoo	page_view		Visitor-853392	Page-5	Benadryl,Allergy
+1521810672021	Other	page_view		Visitor-228458	Page-5	Trident,"White Gum, Peppermint"
+1521810672021	Twitter	page_view		Visitor-622576	Page-6	Purell,Advanced Hand Sanitizer -travel size
+1521810672021	Other	page_view		Visitor-727194	Page-12	aussie,Instant Freeze Gel
+1521810672021	Yahoo	page_view		Visitor-462240	Page-11	Scotch,Super 33+ Vinyl Electric Tape
+1521810672021	Facebook	page_view		Visitor-795965	Page-7	Reynolds,Wrap
+1521810672501	Other	page_view		Visitor-574277	Page-12	Avery,Heavy-Duty EZD Reference 3-Ring Binder
+1521810672501	Direct	page_view		Visitor-579616	Page-13	Gnarly Head,Cabernet Sauvignon
+1521810672501	Facebook	page_view		Visitor-554307	Page-10	Axe,Axe Anarchy for Her
+1521810672501	Google	page_view		Visitor-356592	Page-3	Spectrum Naturals,Peanut Oil
+1521810672501	Yahoo	page_view		Visitor-32786	Page-14	l'Oreal,EverStrong Hydrate Shampoo
+1521810672501	Bing	page_view		Visitor-975809	Page-4	Pentel,Super Hi-Polymer Lead 0.7
+1521810672501	Twitter	page_view		Visitor-632281	Page-12	Maybelline,The Falsies - Washable Mascara
+1521810672981	Facebook	page_view		Visitor-404406	Page-4	Edge,Sensitive Skin Shaving Gel with Aloe
+1521810672981	Other	page_view		Visitor-748327	Page-4	Chobani,Greek Yogurt - Plain
+1521810672981	Yahoo	page_view		Visitor-418536	Page-3	Tapatio,Hot Sauce
+1521810672981	Twitter	page_view		Visitor-615747	Page-9	HDX,Table Top Air Circulator
+1521810673461	Internal	page_view	Page-13	Visitor-159317	Page-2	Westvleteren,Westvleteren XII
+1521810673461	Direct	page_view		Visitor-460025	Page-3	Blue Diamond,Almonds   Whole Natural
+1521810673941	Bing	page_view		Visitor-679184	Page-0	Lysol,Bathroom Cleaner with Hydrogen Peroxide
+1521810673941	Bing	page_view		Visitor-686158	Page-6	CVS Total Home,"Aluminum Foil, Heavy Duty"
+1521810673941	Google	purchas		Visitor-254696	Page-0	Crisco,Pure Vegetable Oil
+1521810673941	Facebook	page_view		Visitor-98407	Page-11	Safeway,Whole Black Pepper
+1521810673941	Yahoo	page_view		Visitor-866561	Page-8	David's Tea,Birthday Cake
+1521810673941	Google	page_view		Visitor-738988	Page-13	Gunnar,Vayper Onyx Advanced Gaming Eyewear
+1521810673941	Other	page_view		Visitor-748400	Page-9	CVS Pharmacy,200mg Ibuprofen Capsules
+1521810673941	Google	page_view		Visitor-357323	Page-14	Expo,Dry Erase Markers
+1521810673941	Direct	page_view		Visitor-900394	Page-2	Cloud 9,Cutlery Combo
+1521810673941	Facebook	page_view		Visitor-451458	Page-1	Q-tips,Cotton Swabs
+1521810673941	Facebook	page_view		Visitor-891642	Page-8	Simple Truth Organic,Baby Arugula
+1521810673941	Other	page_view		Visitor-747337	Page-10	e.l.f.,Eyebrow Kit- Darl

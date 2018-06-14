@@ -1,0 +1,7 @@
+see the topic name in /home/shravan/Flume/kafka.config ========= sensor
+
+
+kafka-console-consumer.sh --zookeeper localhost:2181 --topic sensor --from-beginning
+
+
+hdfs://localhost:9000/sample
