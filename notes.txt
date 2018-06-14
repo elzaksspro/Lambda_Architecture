@@ -1,0 +1,21 @@
+Online store:--
+
+	**visitors** Find number of visitors to the particular product as date wise.
+
+	**activity** Find types of activities to the particular product as date wise are purchase_count, add_to_cart_count, page_view_count.
+
+1.	Batch job:-
+		
+		Batch data from HDFS, processing the data visitors, activity and store this useful information about the product in HDFS.
+			python/batch/BatchJob.py
+		Batch data from HDFS, processing the data visitors, activity and store this useful information about the product in Cassandra.
+			python/streaming/hdfs_cassandra.ipynb
+
+
+2.	Streaming:-
+		
+		Streaming data comes from the kafka producer apply the above batch job processing on the real time batches of data and store it in the both HDFS and Cassandra.
+	
+		Cassandra here it is used for reporting store, apply SQL queries on top of this database.
+
+		python/streaming/kafka_stream_hdfs_cassandra.ipynb
