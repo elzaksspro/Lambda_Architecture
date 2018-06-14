@@ -7,9 +7,9 @@ Online store:--
 1.	Batch job:-
 		
 		Batch data from HDFS, processing the data visitors, activity and store this useful information about the product in HDFS.
-			python/batch/BatchJob.py
+			++++ python/batch/BatchJob.py ++++
 		Batch data from HDFS, processing the data visitors, activity and store this useful information about the product in Cassandra.
-			python/streaming/hdfs_cassandra.ipynb
+			++++ python/streaming/hdfs_cassandra.ipynb ++++
 
 
 2.	Streaming:-
@@ -18,4 +18,13 @@ Online store:--
 	
 		Cassandra here it is used for reporting store, apply SQL queries on top of this database.
 
-		python/streaming/kafka_stream_hdfs_cassandra.ipynb
+		++++ python/streaming/kafka_stream_hdfs_cassandra.ipynb ++++
+
+
+========= How to run the application =========
+1.	Produce the data using resources/products.csv and resources/referrers.csv also wrote the kafka producer logic in this file.
+		++++ python/clickstream/LogProducer.py ++++
+
+2.	Store the above generated data in the ++++stream_data++++ directory for Batch job
+
+3.	and rest is the real time data processing.
