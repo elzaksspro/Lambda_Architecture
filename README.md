@@ -13,5 +13,5 @@ The batch layer precomputes results using a distributed processing system that c
 Diagram showing the flow of data through the processing and serving layers of lambda architecture. Example named components are shown.
 The speed layer processes data streams in real time and without the requirements of fix-ups or completeness. This layer sacrifices throughput as it aims to minimize latency by providing real-time views into the most recent data. Essentially, the speed layer is responsible for filling the "gap" caused by the batch layer's lag in providing views based on the most recent data. This layer's views may not be as accurate or complete as the ones eventually produced by the batch layer, but they are available almost immediately after data is received, and can be replaced when the batch layer's views for the same data become available.
 
-<h1>   </h1>
+<h1></h1>
 [Apache spark streaming](https://spark.apache.org/streaming/)
