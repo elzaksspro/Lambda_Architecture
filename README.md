@@ -14,3 +14,8 @@ Diagram showing the flow of data through the processing and serving layers of la
 The speed layer processes data streams in real time and without the requirements of fix-ups or completeness. This layer sacrifices throughput as it aims to minimize latency by providing real-time views into the most recent data. Essentially, the speed layer is responsible for filling the "gap" caused by the batch layer's lag in providing views based on the most recent data. This layer's views may not be as accurate or complete as the ones eventually produced by the batch layer, but they are available almost immediately after data is received, and can be replaced when the batch layer's views for the same data become available.
 
 [Apache spark streaming](https://spark.apache.org/streaming/)
+
+<h3>Serving layer</h3>
+Output from the batch and speed layers are stored in the serving layer, which responds to ad-hoc queries by returning precomputed views or building views from the processed data.
+
+<h6>Dedicated stores used in the serving layer include Apache Cassandra for speed-layer output, and Apache Hive for batch-layer output.</h6>
