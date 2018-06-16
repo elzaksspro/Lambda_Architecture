@@ -19,5 +19,3 @@ The speed layer processes data streams in real time and without the requirements
 Output from the batch and speed layers are stored in the serving layer, which responds to ad-hoc queries by returning precomputed views or building views from the processed data.
 
 Dedicated stores used in the serving layer include [Apache Cassandra](http://cassandra.apache.org/) for speed-layer output, and [Apache Hive](https://hive.apache.org/) for batch-layer output.
-
-1.  [Machine Learning - Stanford](https://class.coursera.org/ml-005) by Andrew Ng in Coursera (2010-2014) include [Apache Cassandra](http://cassandra.apache.org/) for
