@@ -6,4 +6,6 @@ Lambda architecture is a data-processing architecture designed to handle massive
 
 Lambda architecture describes a system consisting of three layers: batch processing, speed (or real-time) processing, and a serving layer for responding to queries.
 
-<h3>How is it</h3>
+<h3>Batch layer</h3>
+The batch layer precomputes results using a distributed processing system that can handle very large quantities of data. The batch layer aims at perfect accuracy by being able to process all available data when generating views. This means it can fix any errors by recomputing based on the complete data set, then updating existing views. Output is typically stored in a read-only database, with updates completely replacing existing precomputed views
+      <h4>HDFS</h4>
