@@ -8,7 +8,8 @@ Lambda architecture describes a system consisting of three layers: batch process
 
 ### Batch layer
 The batch layer precomputes results using a distributed processing system that can handle very large quantities of data. The batch layer aims at perfect accuracy by being able to process all available data when generating views. This means it can fix any errors by recomputing based on the complete data set, then updating existing views. Output is typically stored in a read-only database, with updates completely replacing existing precomputed views.
-###### HDFS
+
+[Apache Hadoop](http://hadoop.apache.org/)
 
 ### Real time processing layer
 Diagram showing the flow of data through the processing and serving layers of lambda architecture. Example named components are shown.
